@@ -1,0 +1,39 @@
+check,ok,detail
+df_shape,True,"rows=12651, cols=2238"
+summary_five_models,True,"['Baseline', 'PCA', 'ADME', 'Plain', 'BBB pass']"
+five_model_pickles,True,"['ADME.pkl', 'BBB pass.pkl', 'Baseline.pkl', 'PCA.pkl', 'Plain.pkl']"
+split_registry_columns,True,"['split_index', 'set', 'ligand_id']"
+split_registry_indices_0_30,True,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]"
+split0_train_test,True,"['test', 'train']"
+split1_train_val_test,True,"['test', 'train', 'val']"
+annotation_renamed,True,data/receptor_panel_annotation.csv
+legacy_split_txt_absent,True,[]
+figure_results_manuscript_fig1.png,True,"results/figures/manuscript/fig1.png size=(3566, 2262)"
+figure_manuscript_fig1.png,True,"manuscript/fig1.png size=(3566, 2262)"
+figure_results_manuscript_fig2.png,True,"results/figures/manuscript/fig2.png size=(3570, 2275)"
+figure_manuscript_fig2.png,True,"manuscript/fig2.png size=(3570, 2275)"
+figure_results_manuscript_fig3.png,True,"results/figures/manuscript/fig3.png size=(1812, 1412)"
+figure_manuscript_fig3.png,True,"manuscript/fig3.png size=(1812, 1412)"
+figure_results_manuscript_fig4a.png,True,"results/figures/manuscript/fig4a.png size=(2281, 2818)"
+figure_manuscript_fig4a.png,True,"manuscript/fig4a.png size=(2281, 2818)"
+figure_results_manuscript_fig4b.png,True,"results/figures/manuscript/fig4b.png size=(2281, 2818)"
+figure_manuscript_fig4b.png,True,"manuscript/fig4b.png size=(2281, 2818)"
+figure_results_manuscript_fig4c.png,True,"results/figures/manuscript/fig4c.png size=(2298, 2818)"
+figure_manuscript_fig4c.png,True,"manuscript/fig4c.png size=(2298, 2818)"
+figure_results_manuscript_fig5.png,True,"results/figures/manuscript/fig5.png size=(2284, 2072)"
+figure_manuscript_fig5.png,True,"manuscript/fig5.png size=(2284, 2072)"
+generated_table1_model_quality.tex,True,manuscript/generated/table1_model_quality.tex
+generated_table2_local_conformal.tex,True,manuscript/generated/table2_local_conformal.tex
+generated_table3_quadrants.tex,True,manuscript/generated/table3_quadrants.tex
+generated_numbers.tex,True,manuscript/generated/numbers.tex
+no_forbidden_repo_visible_sources,True,[]
+latex_inputs_table1_model_quality.tex,True,table1_model_quality.tex
+latex_inputs_table2_local_conformal.tex,True,table2_local_conformal.tex
+latex_inputs_table3_quadrants.tex,True,table3_quadrants.tex
+latex_inputs_numbers.tex,True,numbers.tex
+latex_no_static_v33,True,
+cmd_pdflatex,True,pdflatex -interaction=nonstopmode -halt-on-error sn-article2_v39.tex
+cmd_bibtex,True,bibtex sn-article2_v39
+cmd_pdflatex,True,pdflatex -interaction=nonstopmode -halt-on-error sn-article2_v39.tex
+cmd_pdflatex,True,pdflatex -interaction=nonstopmode -halt-on-error sn-article2_v39.tex
+pdf_exists,True,manuscript/sn-article2_v39.pdf

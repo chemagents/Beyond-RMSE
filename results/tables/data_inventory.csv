@@ -1,0 +1,9 @@
+item,value
+n_rows,12651
+n_columns,2238
+n_fingerprint_columns,2048
+n_protein_columns,44
+protein_nan_cells,8159
+rows_with_any_protein_nan,3354
+target_nonmissing,12651
+unique_ligand_id,12651

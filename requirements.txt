@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+scikit-learn
+catboost
+shap
+mapie
+jupyter
+nbformat
+nbconvert
