@@ -1,6 +1,6 @@
 # Biology-Informed Confidence Model for Toxicological QSAR
 
-This repository reproduces the figures, tables, and article PDF for a
+This repository reproduces main figures and tables for a
 biology-informed acute toxicity QSAR workflow. The analysis combines molecular
 fingerprints, physicochemical descriptors, protein docking scores, ADMET-derived
 annotations, CatBoost regression, SHAP interpretation, and localized conformal
