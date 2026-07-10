@@ -178,7 +178,7 @@ are expected to be larger from regions where they are expected to be smaller.
 
 ## Configuration
 
-The workflow is notebook-first. Constants, feature definitions, model parameters,
+The workflow is a set of sequentially executed notebooks. Constants, feature definitions, model parameters,
 paths, and plotting settings are defined directly in the corresponding notebooks.
 All paths are relative to the repository root.
 
@@ -196,4 +196,4 @@ MIT License
 
 ## Contact
 
-For questions or issues, please contact the corresponding authors.
+For questions or issues, please contact safronov [dog] phystech.edu.
