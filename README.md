@@ -1,4 +1,4 @@
-# Biology-Informed Confidence Model for Toxicological QSAR
+# Beyond RMSE: Biology-Informed Confidence Model for Toxicological QSAR
 
 This repository reproduces main figures and tables for a
 biology-informed acute toxicity QSAR workflow. The analysis combines molecular
