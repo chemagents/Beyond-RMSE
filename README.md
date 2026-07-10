@@ -1,4 +1,4 @@
-# Biology-Informed Confidence Modeling for Toxicological QSAR
+# Biology-Informed Confidence Model for Toxicological QSAR
 
 This repository reproduces the figures, tables, and article PDF for a
 biology-informed acute toxicity QSAR workflow. The analysis combines molecular
